@@ -8,7 +8,8 @@ public class GitTest12Application {
 
     public static void main(String[] args) {
         SpringApplication.run(GitTest12Application.class, args);
-        System.out.println("브랜치 생성 완료");
+      System.out.printf(" 안녕하세요");  
+      System.out.println("브랜치 생성 완료");
     }
 
 }
