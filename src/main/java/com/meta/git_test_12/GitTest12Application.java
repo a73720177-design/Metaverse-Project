@@ -8,6 +8,7 @@ public class GitTest12Application {
 
     public static void main(String[] args) {
         SpringApplication.run(GitTest12Application.class, args);
+        System.out.printf(" 안녕하세요");
     }
 
 }
