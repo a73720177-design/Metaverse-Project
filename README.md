@@ -36,7 +36,7 @@ chore: 빌드 업무 수정, 패키지 매니저 설정 등
 
 제목과 본문은 빈 줄로 구분합니다.
 
-**이 프로젝트에 대한 RULESETS**
+**이 프로젝트에 대한 RULESETS** (main 브랜치만 적용)
 
 **Restrict deletions (삭제 제한)**
 
